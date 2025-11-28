@@ -1,0 +1,8 @@
+# Python version: 3.13
+
+opencv-python>=4.12.0
+numpy>=2.2.6
+imutils>=0.5.4
+scipy>=1.11.1
+# dlib is optional, if you want landmark detection (Python 3.13 may need precompiled wheel)
+# dlib>=19.24.2
